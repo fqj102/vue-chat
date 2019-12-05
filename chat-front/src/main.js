@@ -6,7 +6,7 @@ import Directives from './plugins/directives';
 import router from './router';
 import store from './store';
 
-import './assets/_common.scss';
+import './assets/_common.css';
 
 Vue.config.productionTip = false;
 Vue.use(Directives);
